@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is a sample appplication
+            This is a secondary appplication
         </div>
     </form>
 </body>
